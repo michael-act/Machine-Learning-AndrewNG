@@ -19,7 +19,6 @@ Repository ini dibuat dan akan dikelola oleh <a href="https://github.com/michael
 
 ## 🧑 Author
 
-👤 <a href="https://www.facebook.com/michael.actt"> **Michael A.C Tulenan**</a>
 - Facebook : <a href="https://www.facebook.com/michael.actt"> Michael Act</a>
 - LinkedIn : <a href="https://www.linkedin.com/in/michael-act/"> Michael A.C Tulenan</a>
 
