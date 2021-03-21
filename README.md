@@ -1,10 +1,3 @@
-<h1 align="center">Selamat datang disini! 👋</h1>
-
-
-
-[![](https://img.shields.io/github/issues/michael-act/Machine-Learning-AndrewNG?style=flat-square)](https://img.shields.io/github/issues/michael-act/Machine-Learning-AndrewNG?style=flat-square) ![](https://img.shields.io/github/stars/michael-act/Machine-Learning-AndrewNG?style=flat-square)
-![](https://img.shields.io/github/forks/michael-act/Machine-Learning-AndrewNG?style=flat-square) ![](https://img.shields.io/github/license/michael-act/Machine-Learning-AndrewNG?style=flat-square) [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg?style=flat-square)](https://saythanks.io/to/zaidanline67%40gmail.com) [![HitCount](http://hits.dwyl.com/michael-act/https://github.com/michael-act/Machine-Learning-AndrewNG.svg)](http://hits.dwyl.com/michael-act/https://github.com/michael-act/Machine-Learning-AndrewNG)  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![GitHub followers](https://img.shields.io/github/followers/michael-act.svg?style=flat-square&label=Followers&maxAge=2592000)](https://github.com/michael-act?tab=followers)
-
 <p align="center">
 	
 <img align="center" src="http://ForTheBadge.com/images/badges/built-with-love.svg">
@@ -38,7 +31,3 @@ Jangan ragu untuk memeriksa halaman masalah jika Anda ingin berkontribusi. **Set
 ## 📝 License
 - Copyright © 2020 Michael A.C Tulenan.
 - **This Repository is open-sourced software licensed under the MIT license.**
-
-------------
-
-- **Made with ❤️ by Michael A.C Tulenan .**
